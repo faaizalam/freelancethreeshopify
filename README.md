@@ -1,0 +1,1 @@
+# shopify-partner-automate
